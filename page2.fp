@@ -1,5 +1,5 @@
 Creating your own resprotory
-On your homepage for your github account you should see on the left hand side a collum that says 'Top Resprtories'. Click on the button under it that sayd 'NEW'. 
+On your homepage for your github account you should see on the left hand side a collum that says 'Top Reposrtories'. Click on the button under it that said 'NEW'. 
 This should bring you to a page that says "Create a new repository". This is where you costumize your pages and make sure you want everything to be perfect!
 Under 'Repository name', there should be a a box under where you can type out the name you desiger. There is also a discription box underneth that where you can write as much as your heart desigers about you pages. 
 Next there are Public or Private boxes. Public is best if you'd like to share your work. 
